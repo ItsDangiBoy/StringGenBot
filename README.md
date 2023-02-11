@@ -2,14 +2,14 @@
   <img src="https://telegra.ph/file/654ddaf472f18b799600b.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/its-star-boi/StringGenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi&repo=StringGenBot&theme=chartreuse-dark"></a>
+<a href="https://github.com/HEMRAJDANGI2210/StringGenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Hemrajdangi2210&repo=StringGenBot&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Its-star-boi"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈-blue"></a>
+  <a href="https://github.com/hemrajdangi2210"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/Its-star-boi/StringGenBot?style=social)](https://github.com/Its-star-boi/StringGenBot/fork)
@@ -54,9 +54,3 @@ Atleast Give A Star and Fork The Repo 🖤
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://github.com/Its-star-boi)
-- » [Shivang](https://github.com/ShivangKakkar)
-- » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
