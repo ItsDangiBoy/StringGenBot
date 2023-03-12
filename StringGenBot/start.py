@@ -24,8 +24,8 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [OWNER](tg://user?id={OWNER_ID}) !""",
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ DANGI ❣️", url="https://t.me/Dangi_support"),
-                    InlineKeyboardButton("🥀 Dangi 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("❣️ SUPPORT ❣️", url="https://t.me/Team_Dangi"),
+                    InlineKeyboardButton("🥀 OWNER 🥀", user_id=OWNER_ID)
                 ]
             ]
         ),
